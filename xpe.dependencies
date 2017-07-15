@@ -10,8 +10,10 @@
     "branch": "cm-14.1"
   },
   {
-    "repository": "android_kernel_wingtech_msm8916",
-    "target_path": "kernel/wingtech/msm8916"
+    "remote": "github",
+    "repository": "LineageOS/android_kernel_wingtech_msm8916",
+    "target_path": "kernel/wingtech/msm8916",
+    "branch": "cm-14.1"
   },
   {
     "remote": "github",
