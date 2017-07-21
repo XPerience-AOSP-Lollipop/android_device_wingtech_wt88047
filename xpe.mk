@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, device/wingtech/wt88047/full_wt88047.mk)
+$(call inherit-product, device/xiaomi/wt88047/full_wt88047.mk)
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/XPe/config/common_full_phone.mk)
